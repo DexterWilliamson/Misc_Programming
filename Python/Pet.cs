@@ -23,7 +23,7 @@ namespace Pets
             
            string tag = "If lost, call " ;
 
-           return tag + owner; 
+           return tag + owner;
         }
     }
 }
